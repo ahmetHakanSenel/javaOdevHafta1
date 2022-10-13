@@ -5,16 +5,16 @@ public class Main {
 
         switch (harf){
             case "A":
-            case "I":
+            case "i":
             case "O":
             case "U":
                 System.out.println("Kalin sesli harf.");
                 break;
             case "E":
-            case "İ":
+            case "I":
             case "Ö":
             case "Ü":
-                System.out.println("Ince sesli harf:");
+                System.out.println("Ince sesli harf.");
                 break;
             default:
                 System.out.println("Sessiz harf girdiniz.");
